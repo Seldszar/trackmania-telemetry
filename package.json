@@ -1,0 +1,6 @@
+{
+  "name": "trackmania-telemetry",
+  "dependencies": {
+    "node-addon-api": "*"
+  }
+}
